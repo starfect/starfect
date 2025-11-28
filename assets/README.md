@@ -6,7 +6,5 @@
 ###### Assets
 
 * Assets
-
-- Assets
-
+  
 - [ ] Assets
